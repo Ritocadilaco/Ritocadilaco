@@ -1,7 +1,6 @@
-### Hi there 👋
 
-<!--
-**Ritocadilaco/Ritocadilaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ritocadilaco/Ritocadilaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
+meu nome é João e tenho 16 anos , trabalho com cavalo de hipismo estudo de manhã e gosto de fazer dinheiro .
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
